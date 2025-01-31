@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class JumpGame {
     public static boolean canJump(int[] nums) {
         int goal = nums.length-1;
